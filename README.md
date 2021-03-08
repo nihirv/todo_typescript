@@ -2,4 +2,4 @@
 
 A todo app written in Typescript
 
-This is me typing out a message
+To get started, type `npm i` in the root folder of this repo.
